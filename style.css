@@ -102,3 +102,11 @@ a {
 img {
     display: none;
 }
+.step1 {
+    margin-bottom: 600px;
+    height: 700px;
+    font-family: "Domine";
+    font-weight: 400;
+    line-height: 1.4em;
+    text-align: justify;
+}
