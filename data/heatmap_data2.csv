@@ -1,0 +1,676 @@
+year,country,uyghur_count
+2017,Afghanistan,0
+2017,Albania,0
+2017,Algeria,0
+2017,Angola,0
+2017,Argentina,0
+2017,Armenia,0
+2017,Australia,0
+2017,Austria,0
+2017,Azerbaijan,8
+2017,Bahamas,0
+2017,Bahrain,0
+2017,Bangladesh,0
+2017,Barbados,1
+2017,Belarus,0
+2017,Belgium,1
+2017,Belize,0
+2017,Bermuda,8
+2017,Bhutan,0
+2017,"Bonaire, Saint Eustatius and Saba",0
+2017,Bosnia and Herzegovina,0
+2017,Botswana,0
+2017,Brazil,0
+2017,British Virgin Islands,0
+2017,Brunei,0
+2017,Bulgaria,0
+2017,Cambodia,0
+2017,Canada,0
+2017,Chile,0
+2017,China,0
+2017,Colombia,0
+2017,Comoros,0
+2017,Congo,0
+2017,Costa Rica,0
+2017,Croatia,0
+2017,Cuba,0
+2017,Cyprus,0
+2017,Czech Republic,0
+2017,Denmark,0
+2017,Dominican Republic,0
+2017,Egypt,0
+2017,Equatorial Guinea,0
+2017,Estonia,0
+2017,Ethiopia,0
+2017,Fiji,0
+2017,Finland,0
+2017,France,0
+2017,Gabon,0
+2017,Georgia,3
+2017,Germany,0
+2017,Ghana,0
+2017,Greece,0
+2017,Grenada,0
+2017,Guinea,0
+2017,Hong Kong,0
+2017,India,4
+2017,Iran,0
+2017,Iraq,1
+2017,Ireland,0
+2017,Israel,0
+2017,Italy,0
+2017,Japan,0
+2017,Jordan,0
+2017,Kazakhstan,0
+2017,Kenya,0
+2017,Kuwait,0
+2017,Kyrgyzstan,0
+2017,Laos,0
+2017,Latvia,0
+2017,Lebanon,0
+2017,Liberia,0
+2017,Libya,0
+2017,Luxembourg,0
+2017,Macao,0
+2017,Malawi,0
+2017,Malaysia,0
+2017,Malta,0
+2017,Mexico,0
+2017,Moldova,0
+2017,Monaco,0
+2017,Morocco,0
+2017,Mozambique,0
+2017,Myanmar,0
+2017,Nepal,0
+2017,Netherlands,0
+2017,New Zealand,0
+2017,Nigeria,0
+2017,North Korea,0
+2017,Pakistan,0
+2017,Panama,0
+2017,Papua New Guinea,0
+2017,Paraguay,0
+2017,Peru,0
+2017,Philippines,0
+2017,Poland,0
+2017,Qatar,0
+2017,Russia,0
+2017,Rwanda,0
+2017,Saudi Arabia,0
+2017,Senegal,0
+2017,Serbia,0
+2017,Singapore,0
+2017,Slovakia,0
+2017,Somalia,0
+2017,South Africa,0
+2017,South Korea,0
+2017,South Sudan,0
+2017,Spain,0
+2017,Sri Lanka,0
+2017,Sudan,0
+2017,Suriname,0
+2017,Swaziland,0
+2017,Sweden,0
+2017,Switzerland,0
+2017,Syria,2
+2017,Taiwan,7
+2017,Thailand,0
+2017,Tonga,0
+2017,Trinidad and Tobago,1
+2017,Tunisia,0
+2017,Turkey,0
+2017,U.S. Virgin Islands,0
+2017,Uganda,0
+2017,Ukraine,0
+2017,United Arab Emirates,1
+2017,United Kingdom,5
+2017,United States,0
+2017,Uruguay,0
+2017,Uzbekistan,0
+2017,Vatican City,0
+2017,Venezuela,3
+2017,Viet Nam,2
+2017,Western Sahara,0
+2017,Yemen,0
+2017,Zambia,0
+2017,Zimbabwe,0
+2018,Afghanistan,3
+2018,Albania,1
+2018,Algeria,0
+2018,Angola,0
+2018,Argentina,0
+2018,Armenia,0
+2018,Australia,4
+2018,Austria,1
+2018,Azerbaijan,21
+2018,Bahamas,0
+2018,Bahrain,0
+2018,Bangladesh,0
+2018,Barbados,1
+2018,Belarus,0
+2018,Belgium,40
+2018,Belize,0
+2018,Bermuda,6
+2018,Bhutan,0
+2018,"Bonaire, Saint Eustatius and Saba",0
+2018,Bosnia and Herzegovina,0
+2018,Botswana,0
+2018,Brazil,0
+2018,British Virgin Islands,0
+2018,Brunei,0
+2018,Bulgaria,1
+2018,Cambodia,12
+2018,Canada,10
+2018,Chile,0
+2018,China,14
+2018,Colombia,0
+2018,Comoros,0
+2018,Congo,0
+2018,Costa Rica,0
+2018,Croatia,0
+2018,Cuba,0
+2018,Cyprus,0
+2018,Czech Republic,0
+2018,Denmark,0
+2018,Dominican Republic,0
+2018,Egypt,1
+2018,Equatorial Guinea,0
+2018,Estonia,0
+2018,Ethiopia,0
+2018,Fiji,6
+2018,Finland,0
+2018,France,10
+2018,Gabon,0
+2018,Georgia,1
+2018,Germany,0
+2018,Ghana,0
+2018,Greece,0
+2018,Grenada,0
+2018,Guinea,0
+2018,Hong Kong,0
+2018,India,25
+2018,Iran,14
+2018,Iraq,3
+2018,Ireland,7
+2018,Israel,1
+2018,Italy,0
+2018,Japan,3
+2018,Jordan,0
+2018,Kazakhstan,0
+2018,Kenya,0
+2018,Kuwait,0
+2018,Kyrgyzstan,0
+2018,Laos,0
+2018,Latvia,0
+2018,Lebanon,0
+2018,Liberia,0
+2018,Libya,0
+2018,Luxembourg,0
+2018,Macao,15
+2018,Malawi,0
+2018,Malaysia,5
+2018,Malta,0
+2018,Mexico,0
+2018,Moldova,0
+2018,Monaco,0
+2018,Morocco,1
+2018,Mozambique,0
+2018,Myanmar,5
+2018,Nepal,0
+2018,Netherlands,0
+2018,New Zealand,1
+2018,Nigeria,3
+2018,North Korea,2
+2018,Pakistan,0
+2018,Panama,0
+2018,Papua New Guinea,0
+2018,Paraguay,0
+2018,Peru,0
+2018,Philippines,0
+2018,Poland,0
+2018,Qatar,0
+2018,Russia,0
+2018,Rwanda,0
+2018,Saudi Arabia,0
+2018,Senegal,0
+2018,Serbia,0
+2018,Singapore,12
+2018,Slovakia,0
+2018,Somalia,0
+2018,South Africa,6
+2018,South Korea,12
+2018,South Sudan,0
+2018,Spain,0
+2018,Sri Lanka,0
+2018,Sudan,0
+2018,Suriname,0
+2018,Swaziland,0
+2018,Sweden,0
+2018,Switzerland,0
+2018,Syria,2
+2018,Taiwan,93
+2018,Thailand,26
+2018,Tonga,0
+2018,Trinidad and Tobago,1
+2018,Tunisia,0
+2018,Turkey,0
+2018,U.S. Virgin Islands,0
+2018,Uganda,0
+2018,Ukraine,0
+2018,United Arab Emirates,9
+2018,United Kingdom,34
+2018,United States,2
+2018,Uruguay,2
+2018,Uzbekistan,0
+2018,Vatican City,0
+2018,Venezuela,17
+2018,Viet Nam,3
+2018,Western Sahara,0
+2018,Yemen,0
+2018,Zambia,0
+2018,Zimbabwe,0
+2019,Afghanistan,7
+2019,Albania,0
+2019,Algeria,0
+2019,Angola,0
+2019,Argentina,0
+2019,Armenia,0
+2019,Australia,48
+2019,Austria,0
+2019,Azerbaijan,65
+2019,Bahamas,0
+2019,Bahrain,0
+2019,Bangladesh,0
+2019,Barbados,0
+2019,Belarus,0
+2019,Belgium,49
+2019,Belize,0
+2019,Bermuda,10
+2019,Bhutan,0
+2019,"Bonaire, Saint Eustatius and Saba",0
+2019,Bosnia and Herzegovina,0
+2019,Botswana,0
+2019,Brazil,0
+2019,British Virgin Islands,0
+2019,Brunei,0
+2019,Bulgaria,2
+2019,Cambodia,10
+2019,Canada,69
+2019,Chile,0
+2019,China,45
+2019,Colombia,0
+2019,Comoros,0
+2019,Congo,1
+2019,Costa Rica,0
+2019,Croatia,0
+2019,Cuba,0
+2019,Cyprus,0
+2019,Czech Republic,0
+2019,Denmark,0
+2019,Dominican Republic,0
+2019,Egypt,2
+2019,Equatorial Guinea,0
+2019,Estonia,0
+2019,Ethiopia,0
+2019,Fiji,25
+2019,Finland,0
+2019,France,112
+2019,Gabon,0
+2019,Georgia,3
+2019,Germany,0
+2019,Ghana,4
+2019,Greece,0
+2019,Grenada,0
+2019,Guinea,0
+2019,Hong Kong,2
+2019,India,71
+2019,Iran,23
+2019,Iraq,17
+2019,Ireland,7
+2019,Israel,11
+2019,Italy,0
+2019,Japan,11
+2019,Jordan,0
+2019,Kazakhstan,0
+2019,Kenya,0
+2019,Kuwait,0
+2019,Kyrgyzstan,1
+2019,Laos,0
+2019,Latvia,0
+2019,Lebanon,0
+2019,Liberia,0
+2019,Libya,1
+2019,Luxembourg,0
+2019,Macao,55
+2019,Malawi,0
+2019,Malaysia,23
+2019,Malta,3
+2019,Mexico,0
+2019,Moldova,0
+2019,Monaco,0
+2019,Morocco,12
+2019,Mozambique,0
+2019,Myanmar,6
+2019,Nepal,0
+2019,Netherlands,2
+2019,New Zealand,4
+2019,Nigeria,4
+2019,North Korea,2
+2019,Pakistan,16
+2019,Panama,0
+2019,Papua New Guinea,0
+2019,Paraguay,0
+2019,Peru,0
+2019,Philippines,0
+2019,Poland,0
+2019,Qatar,0
+2019,Russia,0
+2019,Rwanda,1
+2019,Saudi Arabia,0
+2019,Senegal,0
+2019,Serbia,0
+2019,Singapore,54
+2019,Slovakia,0
+2019,Somalia,0
+2019,South Africa,10
+2019,South Korea,17
+2019,South Sudan,0
+2019,Spain,0
+2019,Sri Lanka,1
+2019,Sudan,0
+2019,Suriname,0
+2019,Swaziland,0
+2019,Sweden,0
+2019,Switzerland,0
+2019,Syria,3
+2019,Taiwan,170
+2019,Thailand,63
+2019,Tonga,0
+2019,Trinidad and Tobago,0
+2019,Tunisia,0
+2019,Turkey,0
+2019,U.S. Virgin Islands,0
+2019,Uganda,1
+2019,Ukraine,0
+2019,United Arab Emirates,6
+2019,United Kingdom,147
+2019,United States,27
+2019,Uruguay,5
+2019,Uzbekistan,0
+2019,Vatican City,0
+2019,Venezuela,41
+2019,Viet Nam,2
+2019,Western Sahara,0
+2019,Yemen,0
+2019,Zambia,1
+2019,Zimbabwe,0
+2020,Afghanistan,9
+2020,Albania,2
+2020,Algeria,0
+2020,Angola,0
+2020,Argentina,1
+2020,Armenia,0
+2020,Australia,31
+2020,Austria,1
+2020,Azerbaijan,30
+2020,Bahamas,0
+2020,Bahrain,0
+2020,Bangladesh,5
+2020,Barbados,0
+2020,Belarus,0
+2020,Belgium,81
+2020,Belize,0
+2020,Bermuda,2
+2020,Bhutan,0
+2020,"Bonaire, Saint Eustatius and Saba",0
+2020,Bosnia and Herzegovina,0
+2020,Botswana,0
+2020,Brazil,0
+2020,British Virgin Islands,1
+2020,Brunei,0
+2020,Bulgaria,1
+2020,Cambodia,0
+2020,Canada,90
+2020,Chile,0
+2020,China,38
+2020,Colombia,0
+2020,Comoros,0
+2020,Congo,1
+2020,Costa Rica,0
+2020,Croatia,0
+2020,Cuba,0
+2020,Cyprus,0
+2020,Czech Republic,0
+2020,Denmark,0
+2020,Dominican Republic,1
+2020,Egypt,0
+2020,Equatorial Guinea,0
+2020,Estonia,0
+2020,Ethiopia,0
+2020,Fiji,14
+2020,Finland,2
+2020,France,140
+2020,Gabon,0
+2020,Georgia,0
+2020,Germany,0
+2020,Ghana,0
+2020,Greece,0
+2020,Grenada,0
+2020,Guinea,0
+2020,Hong Kong,111
+2020,India,234
+2020,Iran,14
+2020,Iraq,12
+2020,Ireland,23
+2020,Israel,6
+2020,Italy,0
+2020,Japan,0
+2020,Jordan,1
+2020,Kazakhstan,0
+2020,Kenya,0
+2020,Kuwait,0
+2020,Kyrgyzstan,1
+2020,Laos,0
+2020,Latvia,0
+2020,Lebanon,0
+2020,Liberia,0
+2020,Libya,0
+2020,Luxembourg,1
+2020,Macao,30
+2020,Malawi,0
+2020,Malaysia,21
+2020,Malta,1
+2020,Mexico,0
+2020,Moldova,0
+2020,Monaco,0
+2020,Morocco,8
+2020,Mozambique,0
+2020,Myanmar,3
+2020,Nepal,0
+2020,Netherlands,0
+2020,New Zealand,0
+2020,Nigeria,1
+2020,North Korea,0
+2020,Pakistan,16
+2020,Panama,0
+2020,Papua New Guinea,1
+2020,Paraguay,0
+2020,Peru,0
+2020,Philippines,0
+2020,Poland,0
+2020,Qatar,1
+2020,Russia,5
+2020,Rwanda,2
+2020,Saudi Arabia,0
+2020,Senegal,0
+2020,Serbia,0
+2020,Singapore,42
+2020,Slovakia,0
+2020,Somalia,1
+2020,South Africa,2
+2020,South Korea,34
+2020,South Sudan,0
+2020,Spain,0
+2020,Sri Lanka,1
+2020,Sudan,0
+2020,Suriname,0
+2020,Swaziland,0
+2020,Sweden,0
+2020,Switzerland,1
+2020,Syria,3
+2020,Taiwan,159
+2020,Thailand,42
+2020,Tonga,1
+2020,Trinidad and Tobago,0
+2020,Tunisia,0
+2020,Turkey,7
+2020,U.S. Virgin Islands,0
+2020,Uganda,9
+2020,Ukraine,0
+2020,United Arab Emirates,5
+2020,United Kingdom,202
+2020,United States,31
+2020,Uruguay,5
+2020,Uzbekistan,0
+2020,Vatican City,0
+2020,Venezuela,31
+2020,Viet Nam,2
+2020,Western Sahara,0
+2020,Yemen,0
+2020,Zambia,0
+2020,Zimbabwe,0
+2021,Afghanistan,2
+2021,Albania,2
+2021,Algeria,0
+2021,Angola,0
+2021,Argentina,0
+2021,Armenia,0
+2021,Australia,29
+2021,Austria,0
+2021,Azerbaijan,0
+2021,Bahamas,0
+2021,Bahrain,0
+2021,Bangladesh,0
+2021,Barbados,0
+2021,Belarus,0
+2021,Belgium,79
+2021,Belize,0
+2021,Bermuda,0
+2021,Bhutan,0
+2021,"Bonaire, Saint Eustatius and Saba",0
+2021,Bosnia and Herzegovina,0
+2021,Botswana,0
+2021,Brazil,1
+2021,British Virgin Islands,2
+2021,Brunei,1
+2021,Bulgaria,3
+2021,Cambodia,1
+2021,Canada,79
+2021,Chile,0
+2021,China,34
+2021,Colombia,0
+2021,Comoros,0
+2021,Congo,0
+2021,Costa Rica,0
+2021,Croatia,0
+2021,Cuba,0
+2021,Cyprus,0
+2021,Czech Republic,0
+2021,Denmark,0
+2021,Dominican Republic,1
+2021,Egypt,1
+2021,Equatorial Guinea,0
+2021,Estonia,0
+2021,Ethiopia,1
+2021,Fiji,15
+2021,Finland,1
+2021,France,163
+2021,Gabon,0
+2021,Georgia,1
+2021,Germany,0
+2021,Ghana,1
+2021,Greece,0
+2021,Grenada,0
+2021,Guinea,0
+2021,Hong Kong,18
+2021,India,149
+2021,Iran,1
+2021,Iraq,0
+2021,Ireland,7
+2021,Israel,1
+2021,Italy,2
+2021,Japan,0
+2021,Jordan,0
+2021,Kazakhstan,0
+2021,Kenya,0
+2021,Kuwait,0
+2021,Kyrgyzstan,0
+2021,Laos,0
+2021,Latvia,0
+2021,Lebanon,0
+2021,Liberia,0
+2021,Libya,0
+2021,Luxembourg,2
+2021,Macao,17
+2021,Malawi,0
+2021,Malaysia,2
+2021,Malta,2
+2021,Mexico,0
+2021,Moldova,0
+2021,Monaco,0
+2021,Morocco,2
+2021,Mozambique,0
+2021,Myanmar,0
+2021,Nepal,0
+2021,Netherlands,5
+2021,New Zealand,0
+2021,Nigeria,6
+2021,North Korea,0
+2021,Pakistan,13
+2021,Panama,0
+2021,Papua New Guinea,0
+2021,Paraguay,0
+2021,Peru,0
+2021,Philippines,0
+2021,Poland,0
+2021,Qatar,0
+2021,Russia,1
+2021,Rwanda,0
+2021,Saudi Arabia,0
+2021,Senegal,0
+2021,Serbia,0
+2021,Singapore,18
+2021,Slovakia,0
+2021,Somalia,0
+2021,South Africa,0
+2021,South Korea,21
+2021,South Sudan,0
+2021,Spain,0
+2021,Sri Lanka,0
+2021,Sudan,0
+2021,Suriname,0
+2021,Swaziland,0
+2021,Sweden,0
+2021,Switzerland,0
+2021,Syria,1
+2021,Taiwan,65
+2021,Thailand,13
+2021,Tonga,1
+2021,Trinidad and Tobago,0
+2021,Tunisia,0
+2021,Turkey,5
+2021,U.S. Virgin Islands,0
+2021,Uganda,1
+2021,Ukraine,0
+2021,United Arab Emirates,1
+2021,United Kingdom,147
+2021,United States,26
+2021,Uruguay,3
+2021,Uzbekistan,0
+2021,Vatican City,0
+2021,Venezuela,18
+2021,Viet Nam,0
+2021,Western Sahara,0
+2021,Yemen,0
+2021,Zambia,1
+2021,Zimbabwe,1
