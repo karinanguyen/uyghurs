@@ -10,10 +10,10 @@ body {
 #sections {
     position: relative;
     display: inline-block;
-    width: 500px;
     top: 60px;
     z-index: 90;
-    margin-right: 50px;
+    margin-right: 200px;
+    margin-left: 200px;
 }
 
 .categoryLegend {
@@ -32,14 +32,16 @@ body {
     justify-content: space-around; */
 }
 
+
+
 h1, h2 {
     font-weight: 700;
-    text-align: left;
-    line-height: 40px;
+    text-align: center;
+    line-height: 50px;
 }
 
 h1 {
-    font-size: 35px;
+    font-size: 40px;
 }
 
 strong {
@@ -53,6 +55,7 @@ strong {
     align-items: top;
     justify-content: space-around;
 }
+
 
 #vis {
     display: inline-block;
@@ -108,5 +111,5 @@ img {
     font-family: "Domine";
     font-weight: 400;
     line-height: 1.4em;
-    text-align: justify;
+    text-align: center;
 }
