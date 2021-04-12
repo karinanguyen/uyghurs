@@ -120,11 +120,11 @@ function conversor(d){
 
 // Add title to graph
 // svg.append("text")
-//       .attr("x", 100)
-//       .attr("y", 90)
+//       .attr("x", 20)
+//       .attr("y", 10)
 //       .attr("text-anchor", "left")
 //       .style("font-size", "18px")
-//       .text("Heatmap");
+//       .text("Counts of 'Uyghurs' mentions from major media sources from countries over the period of 2017-2021");
 
 // Add subtitle to graph
 svg.append("text")
@@ -135,3 +135,12 @@ svg.append("text")
       .style("fill", "grey")
       .style("max-width", 400)
       .text(" Counts of 'Uyghurs' mentions from major media sources from countries over the period of 2017-2021.");
+
+// svg.append("text")
+//       .attr("x", 10)
+//       .attr("y", -20)
+//       .attr("text-anchor", "left")
+//       .style("font-size", "14px")
+//       .style("fill", "grey")
+//       .style("max-width", 400)
+//       .text(" Hey.");
